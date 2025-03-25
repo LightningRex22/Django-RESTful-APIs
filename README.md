@@ -14,6 +14,3 @@ This repository contains a beginner-friendly project to learn how to build RESTf
 - **Backend:** Django, Django Rest Framework  
 - **Database:** SQLite (or any preferred database)  
 - **Tools:** Postman, Curl  
-
-Whether you're a beginner in backend development or looking to strengthen your API development skills, this repo will guide you step by step.
-
